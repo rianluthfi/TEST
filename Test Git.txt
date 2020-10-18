@@ -1,1 +1,5 @@
-Harus di rubah inii
+<<<<<<< HEAD
+Test Git Rubah Aja Lagi
+=======
+Test Git Rubah
+>>>>>>> parent of 1c4f0b5... Update Test Git.txt
