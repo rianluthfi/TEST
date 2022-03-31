@@ -1,0 +1,44 @@
+Ship Via
+	Door to Door
+	Formal
+
+Cek Master Vendor 
+Reference Isi PO Customer (Manual) (Create New Field)
+Comment : Project (kondisi IF)
+dan info SO
+Department menggantikan kontak
+
+Ship to 
+Alamat di lengkapi
+
+Vendor Number > Vendor Code
+
+
+Item Number
+
+vendor master issue Solve
+
+
+--------------------------
+DO
+Reference > Department
+
+Ship Via > Delete
+	Kurir
+	Grab
+	J&T
+
+Ship Date > Delivery Date
+
+Qty Back Order > Delete
+
+Qty Order 
+
+
+------------- Invoice
+Ship Via Invoce Ddelete
+
+Bank Account Details based on Department
+
+<td align="right">Rp${grossAmt10?string('#,##0.00')}</td>
+	
