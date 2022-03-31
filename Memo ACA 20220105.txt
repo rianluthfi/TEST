@@ -3,6 +3,7 @@ Ship Via
 	Formal
 	
 ==== Update via Web
+==== Update via Local
 
 Cek Master Vendor 
 Reference Isi PO Customer (Manual) (Create New Field)
